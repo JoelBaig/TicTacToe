@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    background-color: rgb(55, 54, 54);
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: wheat;
+}
